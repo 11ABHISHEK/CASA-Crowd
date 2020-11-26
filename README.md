@@ -1,6 +1,4 @@
-# CASA-Crowd
----
-CASA-Crowd: A Context-Aware Scale Aggregation CNN-Based Crowd Counting Technique.
+# CASA-Crowd: A Context-Aware Scale Aggregation CNN-Based Crowd Counting Technique.
 ---
 I have used Shanghai Dataset.
 ---
